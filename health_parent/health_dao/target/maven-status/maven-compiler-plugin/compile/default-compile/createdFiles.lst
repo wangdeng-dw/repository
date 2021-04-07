@@ -1,0 +1,15 @@
+cn\dengwang\mapper\Setmeal_CheckGroupMapper.class
+cn\dengwang\mapper\User_RoleMapper.class
+cn\dengwang\mapper\MenuMapper.class
+cn\dengwang\mapper\OrderSettingMapper.class
+cn\dengwang\mapper\UserMapper.class
+cn\dengwang\mapper\Checkgroup_CheckitemMapper.class
+cn\dengwang\mapper\Role_PermissionMapper.class
+cn\dengwang\mapper\SetmealMapper.class
+cn\dengwang\mapper\Role_MenuMapper.class
+cn\dengwang\mapper\CheckgroupMapper.class
+cn\dengwang\mapper\PermissionMapper.class
+cn\dengwang\mapper\RoleMapper.class
+cn\dengwang\mapper\MemberMapper.class
+cn\dengwang\mapper\OrderMapper.class
+cn\dengwang\mapper\CheckitemMapper.class
